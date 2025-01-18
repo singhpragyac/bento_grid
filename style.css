@@ -8,18 +8,6 @@
     padding: 1vw;
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: auto;
-}
-
-.grid {
-    background: hsl(36, 100%, 99%);
-    width: 100%;
-    max-width: 1500px;
-    height: 1000px;
-    display: grid;
-    gap: 1.5vw;
-    padding: 1vw;
-    grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: auto;
     grid-template-areas:
         "hero hero hero hero aside2 aside2"
         "hero hero hero hero aside2 aside2"
